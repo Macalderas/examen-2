@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .footer {
     display: flex;
     justify-content: center;
@@ -14,3 +15,10 @@
     border: 2px solid #151515;
    
 }
+=======
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+>>>>>>> 80db2ae73e4c830193f1a146884be0d5d2ccaf59

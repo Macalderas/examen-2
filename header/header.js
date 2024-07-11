@@ -5,6 +5,6 @@ header.innerHTML=`
             <h1 class="titulo">usuario@</h1>
             <a href="#" class="btn-github">github</a>
         </header>
-    </div>
+ 
 `;
            

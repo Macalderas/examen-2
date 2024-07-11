@@ -1,0 +1,20 @@
+.parent-container {
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    height: 100vh; 
+}
+
+.footer {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    padding: 20px;
+    width: 340px;
+    gap: 20px; 
+}
+
+.titulo {
+    margin: 0; 
+    color: white; 
+}
